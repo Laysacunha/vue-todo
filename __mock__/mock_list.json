@@ -1,0 +1,47 @@
+[
+    {
+        "task": "Evaluate the additiona and deletion of user IDs",
+        "completed": false,
+        "status": "progress",
+        "priority": "minor",
+        "assigners": [
+            "John", "Andy", "Britney", "Daneryees"
+        ]
+    },
+    {
+        "task": "Identify the implementation team",
+        "completed": false,
+        "status": "pending",
+        "priority": "normal",
+        "assigners": [
+            "John"
+        ]
+    },
+    {
+        "task": "Batch schedul download/progress",
+        "completed": true,
+        "status": "done",
+        "priority": "minor",
+        "assigners": [
+            "Andy"
+        ]
+    },
+    {
+        "task": "Monitor system perfomance and adjust hardware",
+        "completed": true,
+        "status": "done",
+        "priority": "normal",
+        "assigners": [
+            "Britney", "John"
+        ]
+    },
+    {
+        "task": "Install Oh My Zsh on CMD Windows",
+        "completed": false,
+        "status": "pending",
+        "priority": "critical",
+        "assigners": [
+            "Daneryees"
+        ]
+    }
+]
